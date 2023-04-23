@@ -21,13 +21,12 @@ Our application is geared towards anyone looking to build self-awareness around 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&amp;logoColor=white&amp;style=for-the-badge)
 
-![React Full Calendar](documentation/pictures/md-calendar.svg?sanitize=true)
-![Draft.js](documentation/pictures/md-draft.svg?sanitize=true)
-![Weather API](documentation/pictures/md-weather.svg?sanitize=true)
 
-![Alt text](documentation/pictures/fullcalendar-small.jpg)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+<img src="documentation/pictures/fullcalendar.jpg" width=208 alt="full calendar">
+<img src="documentation/pictures/draftjs.jpg" width=108 alt="draft.js" >
+<img src="documentation/pictures/weather.jpg" width=150 alt="weather api">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify api">
+<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chart.js">
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
