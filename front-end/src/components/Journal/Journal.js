@@ -22,6 +22,7 @@ function Journal() {
   const [journalEntry, setJournalEntry] = useState("");
   const [saveJournalEntry, setSaveJournalEntry] = useState(false);
   const [initialValue, setInitialValue] = useState("");
+  const [journalSaved, setJournalSaved] = useState(false);
 
 
   const { setViewMode } = useContext(appContext);
@@ -43,7 +44,12 @@ function Journal() {
           body: journalEntry
         })
         .then(response => {
-          setViewMode('JOURNAL');
+          // setViewMode('JOURNAL');
+          setJournalSaved(true);
+          const timer = setTimeout(() => {
+            setJournalSaved(false);
+          }, 2000);
+          return () => clearTimeout(timer);
         })
         .catch(err => {
           console.log("error", err);
@@ -62,23 +68,23 @@ function Journal() {
       });
   }, [initialValue]);
 
-  
+
 
 
   return (
     <article className={journalClass}>
       <header className={promptButtonClass}>
         <div id="show-prompt">
-        <Button btnId="prompt"
-          onClickHandler={togglePrompt}>
-          give me a prompt
-        </Button>
-        { showPrompt &&(<Button btnId="hide-prompt"
-          onClickHandler={() => setShowPrompt(false)}>
-          hide
-        </Button>)}
+          <Button btnId="prompt"
+            onClickHandler={togglePrompt}>
+            give me a prompt
+          </Button>
+          {showPrompt && (<Button btnId="hide-prompt"
+            onClickHandler={() => setShowPrompt(false)}>
+            hide
+          </Button>)}
         </div>
-            {showPrompt && (<JournalPrompt prompt={prompt} />)}
+        {showPrompt && (<JournalPrompt prompt={prompt} />)}
       </header>
       <br />
 
@@ -87,6 +93,11 @@ function Journal() {
       <footer>
         <Button btnId="save-journal" onClickHandler={() => setSaveJournalEntry(true)}>save</Button>
       </footer>
+      {journalSaved && (
+        <div className="alert alert-danger" role="alert">
+          journal entry saved!
+        </div>
+      )}
     </article>
   );
 };

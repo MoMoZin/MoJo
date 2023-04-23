@@ -112,7 +112,7 @@ const AboutPage = () => {
               <img src="images/charlie-headshot.png" alt="team-headshot"></img>
               <h3>Charlie Chandler</h3>
               <p>
-                Charlie is a full-stack developer based in Vancouver, with a background in health-tech in psychology. He focused on developing the user info touch-points, the self-care checklist, and integrating Spotify for the Moodify feature. He is passionate about applying his skills at the intersections of his other interests: languages, mapping, and urban design.{" "}
+                Charlie is a full-stack developer based in Vancouver, with a background in health-tech and psychology. He focused on developing the user info touch-points, the self-care checklist, and integrating Spotify for the Moodify feature. He is passionate about applying his skills at the intersections of his other interests: languages, mapping, and urban design.{" "}
               </p>
             </div>
           </div>
