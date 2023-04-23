@@ -13,7 +13,7 @@ Our application is geared towards anyone looking to build self-awareness around 
 
 # TECH STACK #
 
-## Languages and Frameworks ##
+## Languages, Frameworks & Database ##
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,7 +40,42 @@ Our application is geared towards anyone looking to build self-awareness around 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+# PROJECT OVERVIEW #
 
+## Landing Page 
+### Landing page to login with spotify account ###
+![Landing Page](documentation/pictures/home.jpg)
+
+## Monthly Summary & Navigation Calendar
+### Monthly overview to quickly glance at selected mood or look for the date with journal entry and checklist entry to revisit any day of the month. ###
+![Monthly Summary & Navigation Calendar](documentation/pictures/calendar.jpg)
+
+## Mood Selection Page
+### choose up to 3 mood for the selected date. Weather of current day will be visiable to see the relation between weather outside and your mood. Spotify will suggest music to play based on the seleced mood of the day to listen to it while journaling ###
+![Mood Selection Page](documentation/pictures/mood-selection.jpg)
+
+## Journal Page ##
+### A place to enter your thoughts and feeling and modify the text input as you desire. No idea what to write? Click on the prompt to get topic ideas. User can also keep track of habits and how they taking care of themselves. ###
+![Journal Page](documentation/pictures/journal.jpg)
+
+## Customize Checklist ##
+### A place to customize habit tracking checklist to match user's focus. Easy add and delete buttons are there to reactive the old items if your habit changed. ###
+![Customize Checklist](documentation/pictures/customize-checklist.jpg)
+
+## Moodify Graph ##
+### A summary of mood selections for selected range of date. ###
+![Moodify Graph](documentation/pictures/moodscape.jpg)
+
+## Night Mode ##
+### For the users who are writing journal at night, we implemented night mode as well. ###
+![Alt text](documentation/pictures/night-mode.jpg)
+
+## Night Mode ##
+### I couldn't have asked for a better team for this project. Everyone was equally passionate, skillful and well organized, and that was the reason we were able to complete this project in the short amount of 2 weeks. ###
+![Dream Team](documentation/pictures/team.jpg)
+
+## Summary of Mojo's features ##
+![Summary of Mojo's features](documentation/pictures/about.jpg)
 
 # PROJECT SETUP #
 
