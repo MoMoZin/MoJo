@@ -21,7 +21,7 @@ Our application is geared towards anyone looking to build self-awareness around 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&amp;logoColor=white&amp;style=for-the-badge)
 
-<div style="display: flex; padding-bottom:15px">
+<div style="display: flex; margin-bottom:15px">
 <img src="documentation/pictures/fullcalendar.jpg" height="28" width=208 alt="full calendar" style="padding-right: 4px">
 <img src="documentation/pictures/draftjs.jpg" height="28" width=108 alt="draft.js"  style="padding-right: 4px">
 <img src="documentation/pictures/weather.jpg" height="28" width=150 alt="weather api" style="padding-right: 4px">
