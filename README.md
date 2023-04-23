@@ -13,15 +13,18 @@ Our application is geared towards anyone looking to build self-awareness around 
 
 # TECH STACK #
 
+## Languages and Frameworks ##
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&amp;logoColor=white&amp;style=for-the-badge)
 
+## API & External Libraries ##
 <div style="display: flex; margin-bottom:15px">
+<img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&amp;logoColor=white&amp;style=for-the-badge" alt="axios" style="padding-right: 4px">
 <img src="documentation/pictures/fullcalendar.jpg" height="28" width=208 alt="full calendar" style="padding-right: 4px">
 <img src="documentation/pictures/draftjs.jpg" height="28" width=108 alt="draft.js"  style="padding-right: 4px">
 <img src="documentation/pictures/weather.jpg" height="28" width=150 alt="weather api" style="padding-right: 4px">
@@ -29,6 +32,7 @@ Our application is geared towards anyone looking to build self-awareness around 
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chart.js" style="padding-right: 4px">
 </div>
 
+## Others
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
