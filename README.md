@@ -21,11 +21,11 @@ Our application is geared towards anyone looking to build self-awareness around 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&amp;logoColor=white&amp;style=for-the-badge)
 
-![React Full Calendar](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/documentation/pictures/md-calendar.svg?sanitize=true)
-![Draft.js](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/documentation/pictures/md-draft.svg?sanitize=true)
-![Weather API](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/documentation/pictures/md-weather.svg?sanitize=true)
+![React Full Calendar](documentation/pictures/md-calendar.svg?sanitize=true)
+![Draft.js](documentation/pictures/md-draft.svg?sanitize=true)
+![Weather API](documentation/pictures/md-weather.svg?sanitize=true)
 
-<!-- ![Alt text](documentation/pictures/fullcalendar-small.jpg) -->
+![Alt text](documentation/pictures/fullcalendar-small.jpg)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
